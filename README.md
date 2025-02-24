@@ -1,4 +1,3 @@
-#README
 master这个分支下面是我在idea推送过来的demo项目<br>
 主要是用来测试idea上传github<br>
 看来是成功了<br>
